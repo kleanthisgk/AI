@@ -1,1 +1,1 @@
-#Artificial Intelligence 2017-2018
+Artificial Intelligence 2017-2018
